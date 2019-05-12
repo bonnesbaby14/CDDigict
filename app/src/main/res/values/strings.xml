@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">CDDigict</string>
+    <string name="hintPass">Password</string>
+
+    <string name="hintMail">Mail</string>
+    <string name="buttonSingin">Sing in</string>
+    <string name="buttonSingup">Sing up</string>
+
+    <string name="name">Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="mail">Mail</string>
+    <string name="pass1">Password</string>
+    <string name="pass2">Repet Password</string>
+    <string name="phone">Phone</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+
+    <string-array name="spinner">
+        <item>Empresa</item>
+        <item>Persona</item>
+
+    </string-array>
+
+    <string name="title_activity_one_system">CDDigict</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Seguridad Publica</string>
+    <string name="menu_gallery">Robo</string>
+    <string name="menu_slideshow">Alumbrado</string>
+    <string name="menu_alcan">Alcantarillado</string>
+    <string name="menu_vial">Vialidad</string>
+    <string name="menu_tools">Transporte</string>
+    <string name="menu_share">Porteccion Civil</string>
+    <string name="title_activity_two_system">TwoSystem</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

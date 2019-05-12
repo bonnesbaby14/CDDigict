@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "230569413065",
+    "firebase_url": "https://cddigict.firebaseio.com",
+    "project_id": "cddigict",
+    "storage_bucket": "cddigict.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230569413065:android:bb5e8e79d05144dd",
+        "android_client_info": {
+          "package_name": "bonzai.com.cddigict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230569413065-3l2fd8jchodgghdekmc1u469256vve9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHFJ_h2p8CkONjlDTze_fXVZAU0F-emc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230569413065-3l2fd8jchodgghdekmc1u469256vve9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

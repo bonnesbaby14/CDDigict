@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navRobo"
+            android:icon="@drawable/ic_stole"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/navIluminacion"
+            android:icon="@drawable/ic_light"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/navAlcantarillado"
+            android:icon="@drawable/ic_alca"
+            android:title="@string/menu_alcan" />
+        <item
+            android:id="@+id/navVialidad"
+            android:icon="@drawable/ic_vial"
+            android:title="@string/menu_vial" />
+
+    </group>
+
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navSeguridadP"
+            android:icon="@drawable/ic_security"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/navRobo"
+            android:icon="@drawable/ic_stole"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_Alumbrado"
+            android:icon="@drawable/ic_light"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/navTransporte"
+            android:icon="@drawable/ic_trans"
+            android:title="@string/menu_tools" />
+        <item
+            android:id="@+id/navProttecionC"
+            android:icon="@drawable/ic_protec"
+            android:title="@string/menu_share" />
+    </group>
+
+</menu>
